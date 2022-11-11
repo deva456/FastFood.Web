@@ -1,0 +1,12 @@
+d:\Devashish\FastFood.Web\FastFood.Models\bin\Debug\net5.0\FastFood.Models.deps.json
+d:\Devashish\FastFood.Web\FastFood.Models\bin\Debug\net5.0\FastFood.Models.dll
+d:\Devashish\FastFood.Web\FastFood.Models\bin\Debug\net5.0\ref\FastFood.Models.dll
+d:\Devashish\FastFood.Web\FastFood.Models\bin\Debug\net5.0\FastFood.Models.pdb
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.csproj.AssemblyReference.cache
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.AssemblyInfoInputs.cache
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.AssemblyInfo.cs
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.csproj.CoreCompileInputs.cache
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.dll
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\ref\FastFood.Models.dll
+d:\Devashish\FastFood.Web\FastFood.Models\obj\Debug\net5.0\FastFood.Models.pdb
